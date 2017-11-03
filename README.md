@@ -1,6 +1,8 @@
 # Zoomdata Gauge Chart
 A Zoomdata Custom Chart built with [ECharts](https://github.com/ecomfe/echarts)
 
+![2017-11-03_15-13-21](https://user-images.githubusercontent.com/5589281/32391829-e30cc9de-c0a9-11e7-9331-96514edd41a8.png)
+
 ### Prerequisites
 You need to download and configure the zoomdata-chart-cli from npm
 ```
