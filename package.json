@@ -1,6 +1,6 @@
 {
-  "name": "gauge",
-  "version": "0.0.0",
+  "name": "zoomdata-gauge-chart",
+  "version": "2.5.0",
   "description": "",
   "keywords": [],
   "main": "index.js",
