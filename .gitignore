@@ -56,8 +56,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
-# Zoomdata chart files & directories
-components/
-version
-visualization.json
